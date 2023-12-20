@@ -1,0 +1,23 @@
+body{
+                    text-align: center;
+                    background-image: url('halloween.jpg');
+                    background-repeat: no-repeat;
+                    background-size: cover;
+}
+h1{
+                    font-size: 50px;
+}
+p{
+                    padding-top:0px ;
+                    font-size:30px;
+}
+button{
+                    background-color:orange;
+                    width:120px;
+                    height: 30px;
+                    text-color:black;
+                    text-underline-offset:none;
+}
+a{
+                    color:black;
+}
